@@ -25,6 +25,7 @@ I am currently pursuing an **MTech in Cybersecurity at IIT Delhi**.
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Hardhat-FCC624?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
 </p>
 
 ### Databases
