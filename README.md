@@ -38,16 +38,14 @@ I am currently pursuing an **MTech in Cybersecurity at IIT Delhi**.
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BitByNIK&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByNIK&layout=donut&theme=dark" alt="Top Languages" style="height: 200px;"/>
-</div>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BitByNIK&show_icons=true&theme=dark" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByNIK&layout=donut&theme=dark" />
 
 ---
 
 ## 📈 GitHub Activity Graph
 
-[![BitByNIK's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BitByNIK&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nikhil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BitByNIK&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
