@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Nikhil Gupta
+# 👋 Hi, I’m Nikhil Gupta ![](https://komarev.com/ghpvc/?username=BitByNIK&abbreviated=true&style=plastic&color=orange)
 
 ## About Me  
 I am currently pursuing an **MTech in Cybersecurity at IIT Delhi**.
@@ -33,6 +33,21 @@ I am currently pursuing an **MTech in Cybersecurity at IIT Delhi**.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=BitByNIK&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 200px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByNIK&layout=donut&theme=dark" alt="Top Languages" style="height: 200px; width: auto;"/>
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+[![BitByNIK's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BitByNIK&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
