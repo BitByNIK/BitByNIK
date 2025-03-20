@@ -38,9 +38,9 @@ I am currently pursuing an **MTech in Cybersecurity at IIT Delhi**.
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BitByNIK&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 200px; width: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByNIK&layout=donut&theme=dark" alt="Top Languages" style="height: 200px; width: auto;"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=BitByNIK&show_icons=true&theme=dark" alt="GitHub Stats" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitByNIK&layout=donut&theme=dark" alt="Top Languages" style="height: 200px;"/>
 </div>
 
 ---
