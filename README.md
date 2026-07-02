@@ -36,8 +36,6 @@ Feel free to connect with me or check out my repositories! 🚀
 
 ### 📊 GitHub System Stats
 
-*(Running purely on core GitHub API - 100% uptime, no broken image links)*
-
 <p align="left">
   <a href="https://github.com/BitByNIK?tab=followers"><img src="https://img.shields.io/github/followers/BitByNIK?style=for-the-badge&logo=github&color=333333&label=FOLLOWERS" alt="Followers" /></a>
   <a href="https://github.com/BitByNIK?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-View%20All-333333?style=for-the-badge&logo=github" alt="Repositories" /></a>
